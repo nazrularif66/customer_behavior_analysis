@@ -48,3 +48,10 @@ Actionable Insights: * Boost Subscriptions: Implement targeted promotions to con
 Strategic Marketing: Focus campaigns on high-revenue age groups (Middle-aged and Adults).
 Margin Control: Review discount policies for products like "Hats" and "Sneakers," which show high discount dependency.
 
+
+## Reference & Learning
+This project was produced as part of my learning process through tutorials on YouTube.
+
+* * * Original Tutorial:* * COMPLETE Data Analytics Portfolio Project in 6 EASY Steps | Python + SQL + Power BI
+ ([Link-Video-YouTube-Here](https://youtu.be/5PrZvPeUw60))
+* * * Channel: * * [Amlan Mohanty]
